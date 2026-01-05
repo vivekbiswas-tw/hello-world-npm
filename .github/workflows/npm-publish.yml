@@ -11,8 +11,9 @@ on:
       NPM_TOKEN:
         required: true
 
-permissions:
-  contents: read
+# permissions:
+  # id-token: write
+  # contents: read
 
 jobs:
   publish-npm:
