@@ -18,5 +18,7 @@ jobs:
         with:
           node-version: ${{ inputs.node_version }}
           registry-url: 'https://registry.npmjs.org'
-      - run: npm ci
-      - run: npm publish --provenance --tag=latest --access public
+      - name: Build
+        run: npm ci
+      - name: Release
+        run: npm publish --provenance --tag=latest --access public
