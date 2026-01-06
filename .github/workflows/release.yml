@@ -6,7 +6,7 @@ on:
 
 jobs:
   install:
-    name: Publish
+    name: Publish Build
     uses: ./.github/workflows/publish.yml
     with:
       node_version: 24
