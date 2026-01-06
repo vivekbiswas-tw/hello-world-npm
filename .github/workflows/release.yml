@@ -8,5 +8,8 @@ jobs:
   install:
     name: Publish
     uses: ./.github/workflows/publish.yml
+    permissions:
+      id-token: write
+      contents: read
     with:
       node_version: 24
