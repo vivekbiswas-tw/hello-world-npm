@@ -1,0 +1,12 @@
+name: Release
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  install:
+    name: Publish
+    uses: ./.github/workflows/publish.yml
+    with:
+      node_version: 24
