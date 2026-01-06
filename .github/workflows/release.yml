@@ -10,4 +10,6 @@ jobs:
     uses: ./.github/workflows/publish.yml
     with:
       node_version: 24
-      
+    permissions:
+      id-token: write
+      contents: read
