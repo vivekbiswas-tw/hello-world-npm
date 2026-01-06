@@ -19,4 +19,4 @@ jobs:
           node-version: ${{ inputs.node_version }}
           registry-url: 'https://registry.npmjs.org'
       - run: npm ci
-      - run: npm publish --provenance --workspace ./ --tag=latest
+      - run: npm publish --provenance --tag=latest
