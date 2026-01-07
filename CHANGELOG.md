@@ -1,3 +1,10 @@
+## [1.2.6](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.5...v1.2.6) (2026-01-07)
+
+
+### Bug Fixes
+
+* Dummy commit ([d611913](https://github.com/vivekbiswas-tw/hello-world-npm/commit/d611913844179f72007ed81d958ed3700c1f6de3))
+
 ## [1.2.5](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.4...v1.2.5) (2026-01-07)
 
 
