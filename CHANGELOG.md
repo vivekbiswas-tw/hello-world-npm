@@ -1,3 +1,10 @@
+## [1.2.4](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.3...v1.2.4) (2026-01-07)
+
+
+### Bug Fixes
+
+* Test deployment with publish.yml ([c06c666](https://github.com/vivekbiswas-tw/hello-world-npm/commit/c06c666f16a3bff5f9c60b24bbf0d6efa3f1434e))
+
 ## [1.2.3](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.2...v1.2.3) (2026-01-07)
 
 
