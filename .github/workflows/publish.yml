@@ -19,3 +19,5 @@ jobs:
         run: npm ci
       - name: Release
         run: npm publish --provenance --tag=latest --access public
+        env:
+          NPM_TOKEN: ''
