@@ -5,11 +5,27 @@ on:
     branches: [main]
 
 jobs:
-  install:
-    name: Publish Build
-    uses: ./.github/workflows/publish.yml
-    with:
-      node_version: 24
+  release:
+    name: Semantic Release
+    runs-on: ubuntu-latest
     permissions:
+      contents: write
+      issues: write
+      pull-requests: write
       id-token: write
-      contents: read
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          registry-url: 'https://registry.npmjs.org'
+      - run: npm ci
+      - run: npx semantic-release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+          NPM_CONFIG_PROVENANCE: true
