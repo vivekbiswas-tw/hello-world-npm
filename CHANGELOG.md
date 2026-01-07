@@ -1,3 +1,10 @@
+## [1.2.5](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.4...v1.2.5) (2026-01-07)
+
+
+### Bug Fixes
+
+* Add permissions at nested yml ([ec34933](https://github.com/vivekbiswas-tw/hello-world-npm/commit/ec3493344a5aecd02df1cbdd246e855084354732))
+
 ## [1.2.4](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.3...v1.2.4) (2026-01-07)
 
 
