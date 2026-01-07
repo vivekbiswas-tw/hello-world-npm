@@ -1,3 +1,10 @@
+## [1.2.3](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.2...v1.2.3) (2026-01-07)
+
+
+### Bug Fixes
+
+* Remove the provenance variable ([03dd339](https://github.com/vivekbiswas-tw/hello-world-npm/commit/03dd339b6ef3be70a8bdff2150b7393b94112e91))
+
 ## [1.2.2](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.1...v1.2.2) (2026-01-07)
 
 
