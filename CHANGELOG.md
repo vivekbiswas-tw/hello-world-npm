@@ -1,3 +1,11 @@
+## [1.2.2](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.1...v1.2.2) (2026-01-07)
+
+
+### Bug Fixes
+
+* Move permissions back to parent level ([53e7846](https://github.com/vivekbiswas-tw/hello-world-npm/commit/53e7846a29c44faf8f7a4f35dbaccecc8e4486bb))
+* Set permissions at nested yml level ([7fd7d1b](https://github.com/vivekbiswas-tw/hello-world-npm/commit/7fd7d1b0d80407f752a92399c2d84ccb2b0a0375))
+
 ## [1.2.1](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.0...v1.2.1) (2026-01-07)
 
 
