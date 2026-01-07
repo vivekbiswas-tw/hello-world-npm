@@ -15,6 +15,5 @@ jobs:
       id-token: write
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
-    #   NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
     with:
       node_version: 24
