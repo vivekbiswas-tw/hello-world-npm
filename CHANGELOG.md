@@ -1,3 +1,10 @@
+## [1.2.1](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.2.0...v1.2.1) (2026-01-07)
+
+
+### Bug Fixes
+
+* Manually publish after version update ([e113abd](https://github.com/vivekbiswas-tw/hello-world-npm/commit/e113abd1cc0e2e282a6c77115c6787d6435194db))
+
 # [1.2.0](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.1.1...v1.2.0) (2026-01-07)
 
 
