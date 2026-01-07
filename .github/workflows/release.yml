@@ -8,11 +8,6 @@ jobs:
   release:
     name: Semantic Release
     uses: ./.github/workflows/publish.yml
-    permissions:
-      contents: write
-      issues: write
-      pull-requests: write
-      id-token: write
     secrets:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
     with:
