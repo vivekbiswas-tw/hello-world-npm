@@ -1,3 +1,17 @@
+# [1.2.0](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.1.1...v1.2.0) (2026-01-07)
+
+
+### Bug Fixes
+
+* Disable npm token ([dfa5214](https://github.com/vivekbiswas-tw/hello-world-npm/commit/dfa5214dfdc9feb6f0fafd5080690a93efa4e4c6))
+* pipeline ([6c333a3](https://github.com/vivekbiswas-tw/hello-world-npm/commit/6c333a3537ebae0083135dbb6ca48adef4a0641b))
+* Test RO token ([593baec](https://github.com/vivekbiswas-tw/hello-world-npm/commit/593baecc55163db216e928e061a44d2f8dcd06ff))
+
+
+### Features
+
+* Modify configs ([c711dce](https://github.com/vivekbiswas-tw/hello-world-npm/commit/c711dce84062db5c12fb29e5c0c9a55ee2cd0b73))
+
 ## [1.1.1](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.1.0...v1.1.1) (2026-01-07)
 
 
