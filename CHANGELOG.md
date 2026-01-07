@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.0.9...v1.1.0) (2026-01-07)
+
+
+### Features
+
+* Fix version ([54eb7b6](https://github.com/vivekbiswas-tw/hello-world-npm/commit/54eb7b604db409eab7a52f32d31278404a95042b))
+
 ## [1.0.1](https://github.com/vivekbiswas-tw/hello-world-npm/compare/v1.0.0...v1.0.1) (2026-01-07)
 
 
